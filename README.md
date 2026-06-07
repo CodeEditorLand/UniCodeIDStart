@@ -230,11 +230,22 @@ The following diagram show the ID\_Start and ID\_Continue Unicode boolean
 properties in uncompressed form, in row-major order:
 
 <table>
-<tr><th>ID_Start</th><th>ID_Continue</th></tr>
-<tr>
-<td><img alt="ID_Start bitmap" width="256" src="https://user-images.githubusercontent.com/1940490/168647353-c6eeb922-afec-49b2-9ef5-c03e9d1e0760.png"></td>
-<td><img alt="ID_Continue bitmap" width="256" src="https://user-images.githubusercontent.com/1940490/168647367-f447cca7-2362-4d7d-8cd7-d21c011d329b.png"></td>
-</tr>
+	<tr>
+		<th>
+			ID_Start
+		</th>
+		<th>
+			ID_Continue
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img alt="ID_Start bitmap" width="256" src="https://user-images.githubusercontent.com/1940490/168647353-c6eeb922-afec-49b2-9ef5-c03e9d1e0760.png" />
+		</td>
+		<td>
+			<img alt="ID_Continue bitmap" width="256" src="https://user-images.githubusercontent.com/1940490/168647367-f447cca7-2362-4d7d-8cd7-d21c011d329b.png" />
+		</td>
+	</tr>
 </table>
 
 Uncompressed, these would take 140 K to store, which is beyond what would be
